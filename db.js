@@ -3,7 +3,7 @@ const items = [{
         name: 'Mask',
         slug: 'mask',
         description: '',
-        price: '5',
+        price: '6',
         quantity: 5,
         imag: '/Gear-Face-Mask.webp.png'
     },
