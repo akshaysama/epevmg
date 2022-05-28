@@ -13,7 +13,7 @@ const items = [{
         slug: 'gloves',
         description: '',
         price: '15',
-        quantity: 5,
+        quantity: 115,
         imag: '/sterile-hand-gloves-250x250.jpg'
     },
     {
@@ -22,7 +22,7 @@ const items = [{
         slug: 'Vitamin',
         description: '',
         price: '10',
-        quantity: 5,
+        quantity: 115,
         imag: 'pills.jpg'
     },
     {
@@ -31,7 +31,7 @@ const items = [{
         slug: 'sanitizer',
         description: '',
         price: '30',
-        quantity: 4,
+        quantity: 114,
         imag: '/Untitled.png'
     }
 
