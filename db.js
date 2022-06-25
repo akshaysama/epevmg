@@ -4,7 +4,7 @@ const items = [{
         slug: 'mask',
         description: '',
         price: '6',
-        quantity: 115,
+        quantity: 95,
         imag: '/Gear-Face-Mask.webp.png'
     },
     {
