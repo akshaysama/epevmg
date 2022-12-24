@@ -4,7 +4,7 @@ const items = [{
         slug: 'mask',
         description: '',
         price: '6',
-        quantity: 95,
+        quantity: 44595,
         imag: '/Gear-Face-Mask.webp.png'
     },
     {
@@ -13,7 +13,7 @@ const items = [{
         slug: 'gloves',
         description: '',
         price: '15',
-        quantity: 115,
+        quantity: 111115,
         imag: '/sterile-hand-gloves-250x250.jpg'
     },
     {
@@ -22,7 +22,7 @@ const items = [{
         slug: 'Vitamin',
         description: '',
         price: '10',
-        quantity: 115,
+        quantity: 111115,
         imag: 'pills.jpg'
     },
     {
@@ -31,7 +31,7 @@ const items = [{
         slug: 'sanitizer',
         description: '',
         price: '30',
-        quantity: 114,
+        quantity: 11004,
         imag: '/Untitled.png'
     }
 
